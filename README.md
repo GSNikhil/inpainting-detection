@@ -20,13 +20,7 @@
 [Project Report]() <br>
 
 
-## <div align="center"><span style="color: #e67e22;">File Structure</span></div>
-* `data` contains all the data .zip files
-  * `images` - original images
-  * `masks` - inpainted object masks
-  * `inpainted_mat_lama` - images inpainted using Mat and LaMa
-  * `mat_pkl` - pickle files for Mat inpainted images (generated using SAM)
-  * `lama_pkl` - pickle files for LaMa inpainted images (generated using SAM)
-    
+## <div align="center"><span style="color: #e67e22;">Files</span></div>
+
 * `code.ipynb` - entire project pipeline
 * `wavelets.ipynb` - dtcwt demo code
