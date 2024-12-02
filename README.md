@@ -21,7 +21,7 @@
 
 
 ## <div align="center"><span style="color: #e67e22;">File Structure</span></div>
-* `Data` contains all the data .zip files
+* `data` contains all the data .zip files
   * `images` - original images
   * `masks` - inpainted object masks
   * `inpainted_mat_lama` - images inpainted using Mat and LaMa
