@@ -4,14 +4,11 @@
 
 ## Inpainting Detection Using Wavelet-Based Features​ ​</span>
 
+Sharvari Deshmukh, Nikhil Gandudi Suresh and Avanti Bhandarkar </div>
+
+## <div align="center"><span style="color: #e67e22;">Pipeline</span></div>
+
 ![](https://github.com/GSNikhil/inpainting-detection/blob/main/older%20code/pipline.png)
-
-</div>
-
-## <div align="center"><span style="color: #e67e22;">Team Members</span></div>
-- **<span style="color: #e74c3c;">Sharvari Deshmukh</span>**
-- **<span style="color: #e74c3c;">Nikhil Gandudi Suresh</span>**
-- **<span style="color: #e74c3c;">Avanti Bhandarkar</span>**
 
 ## <div align="center"><span style="color: #e67e22;">Data</span></div>
 
